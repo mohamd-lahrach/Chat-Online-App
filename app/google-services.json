@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "686819020914",
+    "project_id": "messanger-de6ab",
+    "storage_bucket": "messanger-de6ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686819020914:android:cfb186d87bda39f6a2f2eb",
+        "android_client_info": {
+          "package_name": "com.lahrachtech.messanger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686819020914-ceb6lfgdbnl8c60ie8ok5thb97hrbqta.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lahrachtech.messanger",
+            "certificate_hash": "2e706ac09344618ae069ffecb869d44c0d9f6504"
+          }
+        },
+        {
+          "client_id": "686819020914-9f9scge523b5cm681or3vimb5i10erts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9iXJjsolwWxib-MkyVxex64ri5kcvsSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686819020914-9f9scge523b5cm681or3vimb5i10erts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
